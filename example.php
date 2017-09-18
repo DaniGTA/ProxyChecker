@@ -16,4 +16,4 @@ $results = $proxyChecker->checkProxies($proxies);
 
 echo '<pre>';
 var_export($results);
-echo '</pre';
+echo '</pre>';
